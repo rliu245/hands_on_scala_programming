@@ -1,1 +1,1 @@
-# hands_on_scala_programming
+# Hands-On Scala Programming Exercises
